@@ -78,7 +78,7 @@ ol li
 
 #menubar
 { width: 920px;
-  height: 50px;
+  height: 80px;
   border-bottom: 2px solid;} 
   
 #welcome
@@ -101,6 +101,8 @@ ol li
   
 ul#menu
 { margin:0;
+  font: normal 100% Arial, Helvetica, sans-serif;
+  margin-top: 30px;
   float: right;}
 
 ul#menu li
@@ -294,6 +296,7 @@ ul#menu li.current a, ul#menu li:hover a
 	float: left;
 	margin: 20px 0 0 0;
 	padding: 0 0 0 0;
+	margin-bottom: 40px;
 }
 #slider-wrapper {
     height: 400px;
